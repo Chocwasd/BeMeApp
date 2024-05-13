@@ -20,11 +20,11 @@
 
         
 <ImageView
-        android:layout_width="310dp"
-        android:layout_height="226dp"
+        android:layout_width="210dp"
+        android:layout_height="186dp"
         android:layout_gravity="center"
         android:layout_marginTop="30dp"
-        android:src="@drawable/logosignin"/>
+        android:src="@drawable/faceapp_logo"/>
 
    
 
@@ -33,7 +33,7 @@
         android:layout_width="326dp"
         android:layout_height="53dp"
         android:textSize="15dp"
-        android:layout_marginTop="35dp"
+        android:layout_marginTop="55dp"
         android:inputType="textEmailAddress"
         android:padding="15dp"
         android:layout_gravity="center"
